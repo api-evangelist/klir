@@ -1,0 +1,25 @@
+# Front Door AI Index — klir — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: klir
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.klir.io
+  final_host: www.klir.com
+  ownership: own
+  owner: klir
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 2.8
+  words: 1786
+  tiers:
+    agentic: 0
+    core: 5
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 5
